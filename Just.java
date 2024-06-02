@@ -1,1 +1,3 @@
+package just;
+
 interface Just {}
